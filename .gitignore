@@ -1,0 +1,6 @@
+*.csv
+*.json
+!vercel.json
+*バックアップ*/
+work/
+.DS_Store
